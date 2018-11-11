@@ -23,7 +23,7 @@ Built With
 - Python 3
 
 Repository Used
-GitHub
+GitHub, https://github.com/shanecanny1/Fundamentals-for-Data-Analysis-Assingment-1
 
 Versioning
 See the tags in GitHub repository.
